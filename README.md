@@ -3,7 +3,6 @@
 In an era where brick-and-mortar businesses are dwindling, online shopping has become the norm for consumers. From clothes to household goods and groceries, users are increasingly choosing virtual shopping. This project delves into the factors that influence users' decisions to make online purchases, including factors such as the month, weekend presence, and product type. We employ custom machine learning tools like logistic regression, support vector machines (SVM), Naive Bayes, and Neural Networks to analyze what drives revenue generation and determine the most performant machine learning methods.
 
 # Data Description
-Dataset Link: Online Shoppers Purchasing Intention Dataset
 The dataset comprises 12,330 observations with 18 features. Most features are numeric and were pre-encoded before preprocessing. Key features include Bounce Rates, Special Day, Month, Weekend, and the response variable, Revenue, indicating purchase outcomes. There were no null values in the dataset.
 
 # Methods
